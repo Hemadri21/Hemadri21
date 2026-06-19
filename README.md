@@ -16,7 +16,6 @@ Hi, I'm Hemadri Gowda <br><br> Final-Year BCA Student<br><br>I’m currently wor
 ![](https://github-profile-trophy.vercel.app/?username=Hemadri21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
 <!--
 **Hemadri21/Hemadri21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
