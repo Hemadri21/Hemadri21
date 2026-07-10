@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Hemadri Gowda <br><br> Final-Year BCA Student<br><br>I’m currently working on Data Analytics, Machine Learning, and Full-Stack Development projects<br><br> I’m looking to collaborate on Python, Power BI, AI, and Open Source projects<br><br> I’m looking for help with Advanced Machine Learning, MLOps, and System Design<br><br> I’m currently learning FastAPI, React, Data Engineering, and Generative AI<br><br> Ask me about Python, SQL, Power BI, Data Analytics, and Machine Learning<br><br> Fun fact: I started with gaming, but now I spend more time building dashboards, training models, and solving real-world problems with data
+Hi, I'm Hemadri Gowda <br><br> Final-Year BCA Student<br><br>I’m currently working on Data Analytics, Machine Learning, and Full-Stack Development projects<br><br> I’m looking to collaborate on Python, Power BI, AI, and Open Source projects<br><br> I’m looking for help with Advanced Machine Learning, MLOps, and System Design<br><br> I’m currently learning FastAPI, React and Generative AI, Python, SQL, Power BI, Data Analytics, and Machine Learning <br> Fun fact: I started with gaming, but now I spend more time building dashboards, training models, and solving real-world problems with data
 
 
 ## 🌐 Socials:
